@@ -2,7 +2,7 @@
 # Poly Rhythms
 Polyrhythm is the simultaneous use of two or more rhythms that are not readily perceived as deriving from one another, or as simple manifestations of the same meter.
 
-![Uploading 64940c94-0141-4891-9bf6-d34a3e4a87b7 (online-video-cutter.com) (1) (1).gif…]()
+![Captura](https://github.com/mickfree/Poly-Rhythms-Beats/assets/81603830/498c6c31-9c45-4a91-9693-2ca0595cee68)
 
 
 ## Project Usage
